@@ -26,9 +26,9 @@ Felipe Londoño Ospina
 
 ## 📊 Tabla de Posiciones
 
-import java.util.Scanner;
+    import java.util.Scanner;
 
-public class TablaPosiciones3 {
+    public class TablaPosiciones3 {
 
     static final int PJ=0,PG=1,PE=2,PP=3,GF=4,GC=5,DG=6,TA=7,TR=8,PTS=9;
 
