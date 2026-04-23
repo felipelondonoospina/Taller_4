@@ -5,6 +5,7 @@
 El trabajo se desarrolla en equipo, integrando control de versiones mediante commits organizados, documentación en README y evidencias del proceso. Además, se busca fortalecer habilidades fundamentales de programación como el manejo de matrices, así como la correcta estructura de un proyecto Java dentro de un repositorio colaborativo.
 
 👥 Integrantes del Equipo
+
 ##John Steven Pinzon Lenis
 ##Samuel David Campo Rocha
 ##Felipe Londoño Ospina
