@@ -7,5 +7,7 @@ El trabajo se desarrolla en equipo, integrando control de versiones mediante com
 👥 Integrantes del Equipo
 
 ##John Steven Pinzon Lenis
+
 ##Samuel David Campo Rocha
+
 ##Felipe Londoño Ospina
