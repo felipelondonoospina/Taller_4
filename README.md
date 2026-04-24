@@ -140,7 +140,9 @@ https://canva.link/nwzqh63s06uk3n8
 
 ---
 
-## 📆 Fixture de Partidos
+## 📆 Conclusión
+
+En este taller logramos entender y resolver los conceptos y tener un buena manejo de los arreglos y matrices. Fue un ejercicio interesante a la hora de trabajarlo ya que eso nos enseño a como imprimir las banderas en la consola y como ir actualizando y cambiando una tabla de posiciones del mundial de futbol, también el trabajo entre todo el grupo a la hora pedir colaboración para las medidas de las banderas, también aprendimos a como ir arreglando un fixture y agregarle datos importantes a los países.
 
 ---
 
