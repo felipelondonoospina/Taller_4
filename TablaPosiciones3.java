@@ -1,5 +1,3 @@
-package ejercicio;
-
 import java.util.Scanner;
 
 public class TablaPosiciones3 {
@@ -62,7 +60,6 @@ public class TablaPosiciones3 {
             }
 
             if(op==2){
-                // pasar a vector plano para ordenar
                 String[] nombres = new String[48];
                 int[][] t = new int[48][10];
 
@@ -75,7 +72,7 @@ public class TablaPosiciones3 {
                     }
                 }
 
-                // ordenar por puntos
+                // ordenado por puntos
                 for(int i=0;i<47;i++){
                     for(int j=0;j<47-i;j++){
                         if(t[j][PTS]<t[j+1][PTS]){
@@ -85,7 +82,7 @@ public class TablaPosiciones3 {
                     }
                 }
 
-                // mostrar paginado
+                // mostrar tablas
                 for(int p=0;p<6;p++){
                     System.out.println("\n--- PAGINA "+(p+1)+" ---");
                     System.out.printf("%-3s %-20s %-3s %-3s %-3s %-3s %-3s %-3s %-3s %-3s %-3s%n",
